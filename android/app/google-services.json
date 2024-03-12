@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "368876628065",
+    "project_id": "astrowise-d5d15",
+    "storage_bucket": "astrowise-d5d15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368876628065:android:ce52a5a9912d44985e6220",
+        "android_client_info": {
+          "package_name": "com.astrowise.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd9Dg9sFWY0XYuol7Y2smXGTXb8UoQdPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
